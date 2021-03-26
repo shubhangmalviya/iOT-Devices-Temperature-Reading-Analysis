@@ -4,8 +4,8 @@ In this Dataset, we have the temperature readings from IoT devices installed out
 
 ### Dataset details:
 
-        id : unique IDs for each reading
-        room_id/id : room id in which device was installed(currently 'admin room' only for example purpose).
-        noted_date : date and time of reading
-        temp : temperature readings
-        out/in : whether reading was taken from device installed inside or outside of room
+    id : unique IDs for each reading
+    room_id/id : room id in which device was installed(currently 'admin room' only for example purpose).
+    noted_date : date and time of reading
+    temp : temperature readings
+    out/in : whether reading was taken from device installed inside or outside of room
